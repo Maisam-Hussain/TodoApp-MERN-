@@ -19,10 +19,32 @@ A feature-rich todo list web app built using Node.js, Express.js, MongoDB, EJS t
 - CSS
 - Lodash library
 
-## Installation
 
-1. Clone the repository
-2. Install dependencies using `npm install`
+## Todo Web App: Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Maisam-Hussain/TodoApp-MERN-
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
 
 ## Usage
 
