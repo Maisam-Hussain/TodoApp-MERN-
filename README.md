@@ -31,7 +31,7 @@ A feature-rich todo list web app built using Node.js, Express.js, MongoDB, EJS t
 
 ## Screenshots
 
-[[(https://github.com/Maisam-Hussain/TodoApp-MERN-/blob/master/screenshots/first.PNG)]
+[(https://github.com/Maisam-Hussain/TodoApp-MERN-/blob/master/screenshots/first.PNG)]
 
 ## Contributing
 
