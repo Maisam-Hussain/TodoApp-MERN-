@@ -31,7 +31,7 @@ A feature-rich todo list web app built using Node.js, Express.js, MongoDB, EJS t
 
 ## Screenshots
 
-[Add screenshots of your app in action]
+[[Add screenshots of your app in action](https://github.com/Maisam-Hussain/TodoApp-MERN-/blob/master/screenshots/custom%20page%20featuring%20the%20lodash%20string.PNG)]
 
 ## Contributing
 
