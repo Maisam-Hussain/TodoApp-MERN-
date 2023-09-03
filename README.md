@@ -53,7 +53,7 @@ Start the server
 
 ## Screenshots
 
-[[(https://github.com/Maisam-Hussain/TodoApp-MERN-/blob/master/screenshots/first.PNG)]
+- [[(https://github.com/Maisam-Hussain/TodoApp-MERN-/blob/master/screenshots/first.PNG)]
 - [(https://github.com/Maisam-Hussain/TodoApp-MERN-/blob/master/screenshots/second.PNG)]
 - [(https://github.com/Maisam-Hussain/TodoApp-MERN-/blob/master/screenshots/three.PNG)]
 - [(https://github.com/Maisam-Hussain/TodoApp-MERN-/blob/master/screenshots/fourth%20creating%20a%20cutom%20list.PNG)]
